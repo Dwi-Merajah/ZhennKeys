@@ -58,14 +58,8 @@ TOKEN=YOUR_DISCORD_BOT_TOKEN
   "database": "database.json"
 }
 
-OWNER_ID: ID Discord kamu (bisa pakai message.author.id)
 
-limit: Limit default user
-
-database: Path ke file database lokal
-
-
-✏️ Contoh Plugin
+### Example Plugins
 
 Buat file plugins/hello.js:
 
