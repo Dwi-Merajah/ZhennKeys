@@ -44,13 +44,13 @@ git clone https://github.com/Dwi-Merajah/ZhennKeys
 cd ZhennKeys
 npm install
 
-2. Konfigurasi .env
+### 2. Konfigurasi .env
 
 Buat file .env di root:
 
 TOKEN=YOUR_DISCORD_BOT_TOKEN
 
-3. Konfigurasi config.json
+### 3. Konfigurasi config.json
 
 {
   "OWNER_ID": "123456789012345678",
